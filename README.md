@@ -1,9 +1,9 @@
 Hi there 👋 My name's Stepan Sokovikov
 
-🛠  Tech Stack (mostly)
-Spring Boot Java
+🛠 Tech Stack (mostly)
+- Spring Boot, Java, SQL
 
-- 📫 How to reach me 
+📫 How to reach me 
 - sokovikov.stepan@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/stepan-sokovikov/)
 
