@@ -1,7 +1,7 @@
 Hi there 👋 My name's Stepan Sokovikov
 
 🛠 Tech Stack (mostly)
-- Spring Boot, Java, SQL
+- Spring, Java, SQL
 
 📫 How to reach me 
 - sokovikov.stepan@gmail.com
